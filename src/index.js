@@ -8,7 +8,7 @@ const { noSlashCommandLogin } = require('../addons/handlers/noSlashCommandLogin'
 const { slashCommandLogin } = require('../addons/handlers/slashCommandLogin');
 
 const noSlashCommandPrefix = "?";
-const botToken = "ODQxNjc5MTA4ODc4MzY4ODQ4.G9O0BU.faHWUEzTDxS1GNQpPYuRcAWNvoyLi9m2-KCzfs";
+const botToken = "";
 const botStatusRefresh = "3"; // SEKUNDY
 const botStatusList = [
     'Status 1',
